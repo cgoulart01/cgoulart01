@@ -12,7 +12,7 @@ Português:
 Olá, estou Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas. Sou um desenvolvedor apaixonado pelas mais modernas tecnologias em desenvolvimento web e mobile. Sou uma pessoa que adora compartilhar conhecimentos e ajudar quem está começando. Hoje concentro-me nas principais tecnologias, Java, JavaScript, HTML, CSS e pretendo poder desenvolver ainda mais as minhas aptidões e competências. Estou aberto a oportunidades, entre em contato comigo.
 
 Front-end: JavaScript, TypeScript, Bootstrap4, Responsive Design, HTML5 e CSS3 <br>
-Back-end: PHP, Java, Node.js
+Back-end:  PHP, Java, Node.js
 
 
 
