@@ -3,7 +3,7 @@ Olá, sou um Desenvolvedor apaixonado pelas mais modernas tecnologias em Desenvo
 
 
 ### Potifólio:
-https://portifolio-rhxlxx582-cgoulart01.vercel.app/
+https://portifolio-cgoulart01.vercel.app/
 
 esse site fiz uma integração com a API do github, para mostrar os links dos meus repositórios. uma breve informação dos meus conhecimentos e os meus contatos.
 
