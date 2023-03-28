@@ -13,7 +13,7 @@ https://pomodoro-sooty.vercel.app/
 esse site eu fiz um relógio pomodoro.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgoulart01&theme=midnight-purple&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgoulart01&theme=midnight-purple&show_icons=true&layout=compact)
 
 
 
