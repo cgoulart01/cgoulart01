@@ -10,16 +10,5 @@ esse site fiz uma integração com a API do github, para mostrar os links dos me
 ### Pomodoro Timer:
 https://pomodoro-sooty.vercel.app/
 
-esse site eu fiz um relógio pomodoro.
+esse site eu fiz um relógio pomodoro com next.js .
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgoulart01&theme=midnight-purple&show_icons=true&layout=compact)
-
-
-
-
-
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgoulart01&theme=midnight-purple&show_icons=true)
